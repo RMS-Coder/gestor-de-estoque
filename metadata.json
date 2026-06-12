@@ -1,0 +1,6 @@
+{
+  "name": "Gestor de Estoque CRUD",
+  "description": "Uma aplicação CRUD de itens em uma única tela, com tabela interativa, janela de edição aninhada para somar valores e persistência de dados em arquivo JSON.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,502 @@
+[
+  {
+    "id": "10riyslwd",
+    "nome": "Lápis Preto HB",
+    "quantidade": 29
+  },
+  {
+    "id": "vg9xqk09p",
+    "nome": "Lápis Preto 2B",
+    "quantidade": 13
+  },
+  {
+    "id": "shs2n8111",
+    "nome": "Lápis de Cor 12 Cores",
+    "quantidade": 49
+  },
+  {
+    "id": "ecqv0i14s",
+    "nome": "Lápis de Cor 24 Cores",
+    "quantidade": 20
+  },
+  {
+    "id": "7na00u4ea",
+    "nome": "Lápis de Cor 36 Cores",
+    "quantidade": 10
+  },
+  {
+    "id": "pexsqci3z",
+    "nome": "Lápis de Cor 48 Cores",
+    "quantidade": 39
+  },
+  {
+    "id": "vsz05in1s",
+    "nome": "Caneta Esferográfica Azul",
+    "quantidade": 45
+  },
+  {
+    "id": "fgdjr6je3",
+    "nome": "Caneta Esferográfica Preta",
+    "quantidade": 35
+  },
+  {
+    "id": "9hzdzjfj5",
+    "nome": "Caneta Esferográfica Vermelha",
+    "quantidade": 35
+  },
+  {
+    "id": "axpo0ylep",
+    "nome": "Caneta Esferográfica Verde",
+    "quantidade": 48
+  },
+  {
+    "id": "xku220jo2",
+    "nome": "Borracha Branca",
+    "quantidade": 49
+  },
+  {
+    "id": "5kah0pwhv",
+    "nome": "Borracha Colorida",
+    "quantidade": 7
+  },
+  {
+    "id": "s9b2dx11y",
+    "nome": "Apontador Simples",
+    "quantidade": 25
+  },
+  {
+    "id": "gzfqimac9",
+    "nome": "Apontador com Depósito",
+    "quantidade": 20
+  },
+  {
+    "id": "cia7ufgb1",
+    "nome": "Caderno Brochura 48 Folhas",
+    "quantidade": 43
+  },
+  {
+    "id": "1toxj9cle",
+    "nome": "Caderno Brochura 96 Folhas",
+    "quantidade": 25
+  },
+  {
+    "id": "c1dh3tupn",
+    "nome": "Caderno Universitário 1 Matéria",
+    "quantidade": 21
+  },
+  {
+    "id": "c5ddzxazt",
+    "nome": "Caderno Universitário 10 Matérias",
+    "quantidade": 7
+  },
+  {
+    "id": "au9y2xlnb",
+    "nome": "Caderno de Cartografia",
+    "quantidade": 12
+  },
+  {
+    "id": "brh3mwqtv",
+    "nome": "Caderno de Caligrafia",
+    "quantidade": 40
+  },
+  {
+    "id": "zhu1j01l0",
+    "nome": "Régua Plástica 30cm",
+    "quantidade": 41
+  },
+  {
+    "id": "ff5ecob01",
+    "nome": "Régua de Alumínio 30cm",
+    "quantidade": 27
+  },
+  {
+    "id": "0lu6aov14",
+    "nome": "Régua Acrílica 30cm",
+    "quantidade": 14
+  },
+  {
+    "id": "4l0ea08zn",
+    "nome": "Esquadro 45º",
+    "quantidade": 40
+  },
+  {
+    "id": "hvzsnvy0a",
+    "nome": "Esquadro 60º",
+    "quantidade": 9
+  },
+  {
+    "id": "ddn0mwfg3",
+    "nome": "Transferidor 180º",
+    "quantidade": 22
+  },
+  {
+    "id": "3zk7heftz",
+    "nome": "Transferidor 360º",
+    "quantidade": 18
+  },
+  {
+    "id": "wg2tc7vht",
+    "nome": "Compasso Escolar",
+    "quantidade": 34
+  },
+  {
+    "id": "fn729ohni",
+    "nome": "Cola Branca Líquida 40g",
+    "quantidade": 8
+  },
+  {
+    "id": "cwqwqwe0n",
+    "nome": "Cola Branca Líquida 90g",
+    "quantidade": 3
+  },
+  {
+    "id": "bxxv26nis",
+    "nome": "Cola em Bastão 10g",
+    "quantidade": 35
+  },
+  {
+    "id": "vsaa953hs",
+    "nome": "Cola em Bastão 20g",
+    "quantidade": 4
+  },
+  {
+    "id": "rne2fwnfd",
+    "nome": "Cola em Bastão 40g",
+    "quantidade": 38
+  },
+  {
+    "id": "kyrjnbm08",
+    "nome": "Tesoura Escolar Sem Ponta",
+    "quantidade": 40
+  },
+  {
+    "id": "amc4hlr36",
+    "nome": "Tesoura Inox",
+    "quantidade": 34
+  },
+  {
+    "id": "38h81pomz",
+    "nome": "Estojo Escolar Simples",
+    "quantidade": 50
+  },
+  {
+    "id": "jywr4pwqq",
+    "nome": "Estojo Escolar Duplo",
+    "quantidade": 47
+  },
+  {
+    "id": "0czanfqbr",
+    "nome": "Mochila Escolar Infantil",
+    "quantidade": 25
+  },
+  {
+    "id": "vd6kw04pv",
+    "nome": "Mochila Escolar Juvenil",
+    "quantidade": 34
+  },
+  {
+    "id": "6z04cps5m",
+    "nome": "Pasta Catálogo 50 Plásticos",
+    "quantidade": 44
+  },
+  {
+    "id": "z5ww8nsp4",
+    "nome": "Pasta Suspensa",
+    "quantidade": 41
+  },
+  {
+    "id": "w2dvylv5r",
+    "nome": "Pasta com Elástico",
+    "quantidade": 35
+  },
+  {
+    "id": "wugxeaw2t",
+    "nome": "Pasta L",
+    "quantidade": 9
+  },
+  {
+    "id": "9u758q3m7",
+    "nome": "Papel Sulfite A4 100 Folhas",
+    "quantidade": 7
+  },
+  {
+    "id": "9qv6waszx",
+    "nome": "Papel Sulfite A4 500 Folhas",
+    "quantidade": 6
+  },
+  {
+    "id": "xb3931w4x",
+    "nome": "Papel Almaço com Pauta",
+    "quantidade": 44
+  },
+  {
+    "id": "lxtr1pxyv",
+    "nome": "Papel Almaço sem Pauta",
+    "quantidade": 24
+  },
+  {
+    "id": "eatm8quf1",
+    "nome": "Papel Dobradura",
+    "quantidade": 33
+  },
+  {
+    "id": "dsfpkyepw",
+    "nome": "Papel Crepom Cores Sortidas",
+    "quantidade": 31
+  },
+  {
+    "id": "otecri6p3",
+    "nome": "Papel Seda Cores Sortidas",
+    "quantidade": 10
+  },
+  {
+    "id": "fkh2uhv9y",
+    "nome": "Cartolina Branca",
+    "quantidade": 38
+  },
+  {
+    "id": "nha4z8sum",
+    "nome": "Cartolina Diversas Cores",
+    "quantidade": 50
+  },
+  {
+    "id": "awv7oe760",
+    "nome": "Papel Pardo Kraft",
+    "quantidade": 36
+  },
+  {
+    "id": "3de98ewmt",
+    "nome": "Papel Celofane",
+    "quantidade": 14
+  },
+  {
+    "id": "9we6rpyyf",
+    "nome": "EVA Liso",
+    "quantidade": 1
+  },
+  {
+    "id": "tqb8f3l2m",
+    "nome": "EVA com Glitter",
+    "quantidade": 41
+  },
+  {
+    "id": "kw4nxef05",
+    "nome": "Tinta Guache 6 Cores",
+    "quantidade": 13
+  },
+  {
+    "id": "ecpxnwyoi",
+    "nome": "Tinta Guache 12 Cores",
+    "quantidade": 32
+  },
+  {
+    "id": "crvq5849t",
+    "nome": "Tinta Guache Pote 250ml",
+    "quantidade": 43
+  },
+  {
+    "id": "bqxrs7gil",
+    "nome": "Pincel Chato nº 4",
+    "quantidade": 39
+  },
+  {
+    "id": "emfkhss11",
+    "nome": "Pincel Chato nº 8",
+    "quantidade": 9
+  },
+  {
+    "id": "ze1cmzyux",
+    "nome": "Pincel Chato nº 12",
+    "quantidade": 35
+  },
+  {
+    "id": "0fmcp8qu9",
+    "nome": "Pincel Redondo nº 2",
+    "quantidade": 41
+  },
+  {
+    "id": "kasc32sp0",
+    "nome": "Pincel Redondo nº 6",
+    "quantidade": 36
+  },
+  {
+    "id": "7vf4hyxfb",
+    "nome": "Massa de Modelar 6 Cores",
+    "quantidade": 46
+  },
+  {
+    "id": "fuuayai8y",
+    "nome": "Massa de Modelar 12 Cores",
+    "quantidade": 46
+  },
+  {
+    "id": "7qe5o6frs",
+    "nome": "Argila Escolar",
+    "quantidade": 8
+  },
+  {
+    "id": "mnhtkj4kn",
+    "nome": "Giz de Cera 12 Cores",
+    "quantidade": 15
+  },
+  {
+    "id": "ktwfg5ppl",
+    "nome": "Giz de Cera 24 Cores",
+    "quantidade": 17
+  },
+  {
+    "id": "hct38ttp5",
+    "nome": "Giz de Cera Gizão",
+    "quantidade": 49
+  },
+  {
+    "id": "gueosscx3",
+    "nome": "Giz Branco para Lousa",
+    "quantidade": 6
+  },
+  {
+    "id": "hgb7mzu5o",
+    "nome": "Giz Colorido para Lousa",
+    "quantidade": 13
+  },
+  {
+    "id": "7gx56j1e1",
+    "nome": "Marcador de Texto Amarelo",
+    "quantidade": 34
+  },
+  {
+    "id": "naqmnk4ef",
+    "nome": "Marcador de Texto Verde",
+    "quantidade": 42
+  },
+  {
+    "id": "qhcgamanr",
+    "nome": "Marcador de Texto Rosa",
+    "quantidade": 44
+  },
+  {
+    "id": "gcoyxdhn6",
+    "nome": "Marcador de Texto Laranja",
+    "quantidade": 24
+  },
+  {
+    "id": "0eak3fqed",
+    "nome": "Marcador de Quadro Branco Preto",
+    "quantidade": 32
+  },
+  {
+    "id": "exco7xtk2",
+    "nome": "Marcador de Quadro Branco Azul",
+    "quantidade": 49
+  },
+  {
+    "id": "dgygmwkcr",
+    "nome": "Marcador de Quadro Branco Vermelho",
+    "quantidade": 26
+  },
+  {
+    "id": "mo31sfpg3",
+    "nome": "Apagador para Quadro Branco",
+    "quantidade": 22
+  },
+  {
+    "id": "a209go6dn",
+    "nome": "Apagador para Lousa de Giz",
+    "quantidade": 16
+  },
+  {
+    "id": "qjhztbyu3",
+    "nome": "Fita Adesiva Transparente",
+    "quantidade": 34
+  },
+  {
+    "id": "fwe95vo5h",
+    "nome": "Fita Crepe",
+    "quantidade": 6
+  },
+  {
+    "id": "8q1nbfera",
+    "nome": "Fita Dupla Face",
+    "quantidade": 20
+  },
+  {
+    "id": "if8muhgue",
+    "nome": "Grampeador Pequeno",
+    "quantidade": 11
+  },
+  {
+    "id": "bg496o5gx",
+    "nome": "Grampos para Grampeador 26/6",
+    "quantidade": 13
+  },
+  {
+    "id": "0d6ka8psm",
+    "nome": "Clipes de Papel Clips",
+    "quantidade": 18
+  },
+  {
+    "id": "zvvgwcbij",
+    "nome": "Prancheta Acrílica",
+    "quantidade": 22
+  },
+  {
+    "id": "i5fhr3b2b",
+    "nome": "Prancheta MDF",
+    "quantidade": 34
+  },
+  {
+    "id": "oz92dquvz",
+    "nome": "Perfurador de Papel 2 Furos",
+    "quantidade": 2
+  },
+  {
+    "id": "89aivder8",
+    "nome": "Estilete Estreito",
+    "quantidade": 39
+  },
+  {
+    "id": "tx14k607m",
+    "nome": "Lâminas para Estilete",
+    "quantidade": 35
+  },
+  {
+    "id": "itr337cit",
+    "nome": "Corretivo Líquido",
+    "quantidade": 7
+  },
+  {
+    "id": "mg1iqpfo2",
+    "nome": "Corretivo em Fita",
+    "quantidade": 2
+  },
+  {
+    "id": "4usr8yswt",
+    "nome": "Calculadora de Bolso",
+    "quantidade": 26
+  },
+  {
+    "id": "hsi8mdio0",
+    "nome": "Calculadora Científica",
+    "quantidade": 50
+  },
+  {
+    "id": "g33pw0i5j",
+    "nome": "Dicionário de Português",
+    "quantidade": 32
+  },
+  {
+    "id": "slv5lrs0h",
+    "nome": "Dicionário de Inglês",
+    "quantidade": 31
+  },
+  {
+    "id": "zx0dd01os",
+    "nome": "Plástico Adesivo Transparente",
+    "quantidade": 14
+  },
+  {
+    "id": "0z4dhfdia",
+    "nome": "Etiquetas Escolares",
+    "quantidade": 6
+  }
+]

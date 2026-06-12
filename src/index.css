@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:is(.dark *));
+
+.dark {
+  --color-slate-900: #1c1c1c;
+  --color-slate-800: #252525;
+  --color-slate-700: #333333;
+  --color-slate-600: #444444;
+}
+
+/* Scrollbar styles for dark mode */
+.dark ::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+.dark ::-webkit-scrollbar-track {
+  background: var(--color-slate-800);
+  border-radius: 4px;
+}
+.dark ::-webkit-scrollbar-thumb {
+  background: var(--color-slate-600);
+  border-radius: 4px;
+}
+.dark ::-webkit-scrollbar-thumb:hover {
+  background: #555555;
+}
